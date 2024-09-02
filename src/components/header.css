@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(144, 10, 130);
+    color: aliceblue;
+    gap: 20px;
+}
+.header-image{
+    width: 100px;
+    height: 100px;
+}
+.header-text{
+    flex: 1 1 10px; 
+    font-size: 2rem;
+    text-align: center;
+}
